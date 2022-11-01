@@ -1,0 +1,1065 @@
+10teams.mps True 1.7152119999999993 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 80, 'Set Packing': 40, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 110, 'General Linear': 0}
+22433.mps True 0.1735060000000015 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 198, 'General Linear': 0}
+23588.mps True 0.11648199999999775 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 137, 'General Linear': 0}
+2club200v15p5scn.mps True 0.0010569999999994195 large
+30_70_45_05_100.mps True 4.700000000212867e-05 large
+30_70_45_095_100.mps True 0.0008590000000019415 large
+30_70_45_095_98.mps True 0.0007519999999985316 large
+30n20b8.mps True 0.0007330000000003167 large
+50v-10.mps True 1.5384150000000005 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 50, 'General Linear': 183}
+8div-n59k10.mps True 0.0009079999999990207 large
+8div-n59k11.mps True 0.0008020000000001914 large
+8div-n59k12.mps True 0.0007610000000006778 large
+a1c1s1.mps True 66.64620500000001 {'Singleton': 0, 'Aggregation': 6, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2298, 'General Linear': 1008}
+a2864-99blp.mps True 0.0009440000000040527 large
+a2c1s1.mps True 73.39671699999998 {'Singleton': 0, 'Aggregation': 6, 'Precedence': 0, 'Variable Bound': 960, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2346, 'General Linear': 0}
+ab51-40-100.mps True 0.0004849999999976262 large
+ab67-40-100.mps True 0.0007230000000220116 large
+ab69-40-100.mps True 0.0007310000000018135 large
+ab71-20-100.mps True 0.0007659999999987122 large
+ab72-40-100.mps True 0.0007209999999986394 large
+academictimetablebig.mps True 0.0007079999999746178 large
+academictimetablesmall.mps True 0.0007429999999999382 large
+acc-tight2.mps True 16.155959999999993 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 252, 'Set Packing': 162, 'Set Covering': 0, 'Cardinality': 27, 'Invariant Knapsack': 594, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 189, 'General Linear': 1296}
+acc-tight4.mps True 20.50646599999999 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 261, 'Set Packing': 162, 'Set Covering': 9, 'Cardinality': 36, 'Invariant Knapsack': 594, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 189, 'General Linear': 2034}
+acc-tight5.mps True 15.049935999999974 {'Singleton': 0, 'Aggregation': 3, 'Precedence': 0, 'Variable Bound': 40, 'Set Partitioning': 241, 'Set Packing': 248, 'Set Covering': 10, 'Cardinality': 33, 'Invariant Knapsack': 647, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 171, 'General Linear': 1659}
+adult-max5features.mps True 0.001125000000001819 large
+adult-regularized.mps True 0.0008449999999982083 large
+aflow30a.mps True 1.6717820000000074 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 421, 'Set Partitioning': 29, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 29, 'General Linear': 0}
+aflow40b.mps True 22.046243000000004 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 1364, 'Set Partitioning': 39, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 39, 'General Linear': 0}
+air03.mps True 0.0008299999999792362 large
+air04.mps True 0.000782999999984213 large
+air05.mps True 0.0007569999999930133 large
+aligninq.mps True 5.130691999999982 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 276, 'General Linear': 64}
+allcolor10.mps True 0.00111599999999612 large
+allcolor58.mps True 0.000821000000001959 large
+amaze22012-03-15i.mps True 0.000752000000005637 large
+amaze22012-06-28i.mps True 0.0007530000000031123 large
+amaze22012-07-04i.mps True 0.00011800000001471744 large
+app1-1.mps True 0.0007140000000163127 large
+app1-2.mps True 0.0007710000000145101 large
+app2-1.mps True 23.42934599999998 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 1022, 'Set Partitioning': 0, 'Set Packing': 14, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+app2-2.mps True 2.403127999999981 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 321, 'Set Partitioning': 0, 'Set Packing': 12, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+app3.mps True 14.658345999999995 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 5, 'Mixed Binary': 529, 'General Linear': 232}
+arki001.mps True 6.141212999999993 {'Singleton': 29, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 453, 'Set Partitioning': 0, 'Set Packing': 2, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 6, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 8, 'Mixed Binary': 89, 'General Linear': 461}
+assign1-10-4.mps True 1.7764960000000087 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 52, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 10, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 520}
+assign1-5-8.mps True 0.07132599999999911 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 26, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 5, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 130}
+atlanta-ip.mps True 0.0008599999999887586 large
+atm20-100.mps True 0.0007810000000176842 large
+australia-abs-cta.mps True 0.0004339999999842803 large
+b1c1s1.mps True 92.88039499999996 {'Singleton': 0, 'Aggregation': 16, 'Precedence': 0, 'Variable Bound': 1536, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2352, 'General Linear': 0}
+b2c1s1.mps True 94.96953299999996 {'Singleton': 0, 'Aggregation': 16, 'Precedence': 0, 'Variable Bound': 1536, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2352, 'General Linear': 0}
+bab1.mps True 7.199999998874773e-05 large
+bab2.mps True 0.0008320000000026084 large
+bab3.mps True 0.000803000000018983 large
+bab5.mps True 0.0007309999999733918 large
+bab6.mps True 0.0007579999999620668 large
+b-ball.mps True 0.018518000000028678 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 11, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 8, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 11, 'General Linear': 0}
+bc1.mps True 0.001036999999996624 large
+bc.mps True 0.00011899999998377098 large
+beasleyC1.mps True 21.152089999999987 {'Singleton': 0, 'Aggregation': 145, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1605, 'General Linear': 0}
+beasleyC2.mps True 21.492880000000014 {'Singleton': 0, 'Aggregation': 148, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1602, 'General Linear': 0}
+beasleyC3.mps True 21.46897100000001 {'Singleton': 0, 'Aggregation': 160, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1590, 'General Linear': 0}
+beavma.mps True 0.6920359999999164 {'Singleton': 11, 'Aggregation': 2, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 359, 'General Linear': 0}
+berlin_5_8_0.mps True 5.936352000000056 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 1531}
+berlin.mps True 118.67528800000002 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2704, 'General Linear': 0}
+bg512142.mps True 3.0193309999999656 {'Singleton': 372, 'Aggregation': 4, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 737, 'General Linear': 194}
+bharat.mps True 0.0008559999999988577 large
+biella1.mps True 0.0008259999999609136 large
+bienst1.mps True 1.1465029999999388 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 196, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 4, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 320, 'General Linear': 56}
+bienst2.mps True 1.1167500000000246 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 245, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 5, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 270, 'General Linear': 56}
+binkar10_1.mps True 12.701914000000102 {'Singleton': 0, 'Aggregation': 200, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 826, 'General Linear': 0}
+blend2.mps True 0.6210740000000214 {'Singleton': 88, 'Aggregation': 9, 'Precedence': 0, 'Variable Bound': 88, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 57, 'General Linear': 32}
+bley_xl1.mps True 0.0009110000000873697 large
+bley_xs1.mps True 0.0007769999999709398 large
+bley_xs1noM.mps True 0.0007310000000870787 large
+bley_xs2.mps True 0.0007249999999885404 large
+blp-ar98.mps True 0.0001260000000229411 large
+blp-ic97.mps True 0.0006959999999480715 large
+blp-ic98.mps True 0.0007659999999987122 large
+blp-ir98.mps True 5.699999996977567e-05 large
+bmocbd2.mps True 0.0007519999999203719 large
+bmocbd3.mps True 0.0007309999999733918 large
+bmocbd.mps True 0.0007319999999708671 large
+bmoipr2.mps True 0.0004089999999905558 large
+bnatt400.mps True 0.00043000000005122274 large
+bnatt500.mps True 0.0007750000000896762 large
+bppc4-08.mps True 0.0007160000000112632 large
+bppc6-02.mps True 0.0007779999999684151 large
+bppc6-06.mps True 0.0007999999999128704 large
+bppc8-02.mps True 0.12876799999992272 {'Singleton': 1, 'Aggregation': 1, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 17, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 33, 'General Linear': 7}
+bppc8-09.mps True 0.21385099999997692 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 12, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 25, 'General Linear': 30}
+brasil.mps True 222.57748500000002 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3364, 'General Linear': 0}
+brazil3.mps True 0.0008880000000317523 large
+breastcancer-regularized.mps True 3.5499260000000277 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 723}
+bts4-cta.mps True 8.600000001024455e-05 large
+buildingenergy.mps True 8.400000001529406e-05 large
+cap6000.mps True 2.0000000063191692e-05 large
+cbs-cta.mps True 3.299999991668301e-05 large
+cdc7-4-3-2.mps True 1.9999999949504854e-05 large
+cdma.mps True 1.8000000068241206e-05 large
+chromaticindex1024-7.mps True 1.7000000070765964e-05 large
+chromaticindex128-5.mps True 2.700000004551839e-05 large
+chromaticindex256-8.mps True 1.899999995202961e-05 large
+chromaticindex32-8.mps True 26.435911999999917 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 575, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1536, 'General Linear': 0}
+chromaticindex512-7.mps True 0.00014700000008360803 large
+circ10-3.mps True 0.0007349999999632928 large
+ci-s4.mps True 5.499999997482519e-05 large
+cmflsp40-24-10-7.mps True 0.00010399999996479892 large
+cmflsp40-36-2-10.mps True 0.0007400000000643558 large
+cmflsp50-24-10-4.mps True 0.0007620000000088112 large
+cmflsp50-24-8-8.mps True 9.1999999995096e-05 large
+cmflsp60-36-2-6.mps True 0.0004059999999981301 large
+CMS750_4.mps True 0.0007809999999608408 large
+co-100.mps True 8.800000000519503e-05 large
+cod105.mps True 0.0004129999999804568 large
+comp07-2idx.mps True 0.00041899999996530823 large
+comp08-2idx.mps True 0.00044400000001587614 large
+comp12-2idx.mps True 0.0007460000000492073 large
+comp16-3idx.mps True 0.00044700000000830187 large
+comp21-2idx.mps True 0.00042199999995773396 large
+control20-5-10-5.mps True 0.000735999999960768 large
+control30-3-2-3.mps True 1.0113680000000613 {'Singleton': 2, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 180, 'Set Partitioning': 30, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 120, 'General Linear': 180}
+control30-5-10-4.mps True 0.0009459999999990032 large
+core2536-691.mps True 0.0008709999999609863 large
+core2586-950.mps True 0.0007610000000113359 large
+core4284-1064.mps True 0.002773000000047432 large
+core4872-1529.mps True 0.0007920000000467553 large
+cost266-UUE.mps True 0.0008260000000746004 large
+cryptanalysiskb128n5obj14.mps True 0.0007980000000316068 large
+cryptanalysiskb128n5obj16.mps True 0.0007850000000644286 large
+csched007.mps True 7.159973000000036 {'Singleton': 1, 'Aggregation': 2, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 50, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 248, 'General Linear': 50}
+csched008.mps True 5.5099950000000035 {'Singleton': 1, 'Aggregation': 10, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 50, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 240, 'General Linear': 50}
+csched010.mps True 6.473694000000023 {'Singleton': 0, 'Aggregation': 2, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 50, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 249, 'General Linear': 50}
+cvrpa-n64k9vrpi.mps True 7.700000003296736e-05 large
+cvrpb-n45k5vrpi.mps True 4.500000000007276e-05 large
+cvrpp-n16k8vrpi.mps True 3.8999999901534466e-05 large
+cvrpsimple2i.mps False 9.742479000000003 
+cvs08r139-94.mps True 22.09504299999992 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 2296, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 94, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 8, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+cvs16r106-72.mps True 60.2837209999999 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 3520, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 72, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 16, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+cvs16r128-89.mps True 106.33225300000004 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 4528, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 89, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 16, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+cvs16r70-62.mps True 34.60704099999998 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 3200, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 62, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 16, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+cvs16r89-60.mps True 39.291475999999875 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 2992, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 60, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 16, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+d20200.mps True 0.0008110000001124718 large
+dale-cta.mps True 0.0007849999999507418 large
+dano3_3.mps True 5.899999996472616e-05 large
+dano3_5.mps True 0.0007960000000366563 large
+dano3mip.mps True 0.0014169999999467109 large
+danoint.mps True 1.6600280000000112 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 392, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 16, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 184, 'General Linear': 72}
+datt256.mps True 0.0012099999999009015 large
+dc1c.mps True 0.0008350000000518776 large
+dc1l.mps True 0.0008310000000619766 large
+dcmulti.mps True 1.3808340000000499 {'Singleton': 18, 'Aggregation': 0, 'Precedence': 17, 'Variable Bound': 75, 'Set Partitioning': 0, 'Set Packing': 5, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 106, 'General Linear': 69}
+decomp1.mps True 0.0015979999998307903 large
+decomp2.mps True 0.0005060000000867149 large
+dell.mps True 1.935547999999926 {'Singleton': 0, 'Aggregation': 6, 'Precedence': 40, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 198, 'General Linear': 256}
+dfn-bwin-DBE.mps True 0.0010980000001836743 large
+dg012142.mps True 49.33977700000014 {'Singleton': 4213, 'Aggregation': 6, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1557, 'General Linear': 534}
+diameterc-mstc-v20a190d5i.mps True 0.0014800000001287117 large
+diameterc-msts-v40a100d5i.mps True 0.0008349999998245039 large
+disctom.mps True 0.0007709999999860884 large
+dlr1.mps True 0.0008159999999861611 large
+dlr2.mps True 0.00016400000004068715 large
+dolom1.mps True 0.0007079999998040876 large
+drayage-100-12.mps True 0.00011500000005071342 large
+drayage-100-23.mps True 0.0007369999998445564 large
+drayage-25-23.mps True 0.0010509999999612774 large
+drayage-25-27.mps True 0.0007769999999709398 large
+drayage-25-32.mps True 0.0001199999999244028 large
+ds-big.mps True 0.0007450000000517321 large
+dsbmip.mps False 0.012616999999863765 
+ds.mps True 0.0008199999999760621 large
+dws008-01.mps True 0.0007390000000668806 large
+dws008-03.mps True 0.000762000000122498 large
+dws012-01.mps True 0.0008010000001377193 large
+dws012-02.mps True 0.0004480000000057771 large
+dws012-03.mps True 0.0007879999998294807 large
+eil33-2.mps True 0.0007430000000567816 large
+eilA101-2.mps True 0.0007180000000062137 large
+eilC76-2.mps True 0.0007270000000971777 large
+ej.mps True 0.003842999999960739 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 1}
+elitserienhandball11i.mps True 0.0008029999999052961 large
+elitserienhandball13i.mps True 0.00041899999996530823 large
+elitserienhandball14i.mps True 0.0007480000001578446 large
+elitserienhandball3i.mps True 0.0007319999999708671 large
+enlight11.mps True 0.11132199999997283 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 121}
+enlight4.mps True 0.005522000000155458 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 16}
+enlight8.mps True 0.01936799999998584 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 64}
+enlight9.mps True 0.027107000000114567 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 81}
+enlight_hard.mps True 0.046741000000110944 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 100}
+eva1aprime5x5opt.mps True 0.0004590000000916916 large
+eva1aprime6x6opt.mps True 0.0014670000000478467 large
+ex1010-pi.mps True 0.0007550000000264845 large
+ex10.mps True 0.0004369999999198626 large
+ex9.mps True 0.0004460000000108266 large
+exp-1-500-5-5.mps True 3.36291499999993 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 250, 'Set Partitioning': 0, 'Set Packing': 50, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 250, 'General Linear': 0}
+f2000.mps True 0.0007809999999608408 large
+f2gap201600.mps True 0.24713599999995495 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 20, 'General Linear': 0}
+f2gap401600.mps True 2.5237070000000585 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 40, 'General Linear': 0}
+f2gap40400.mps True 0.05063600000016777 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 39, 'General Linear': 0}
+f2gap801600.mps True 3.4041480000000774 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 79, 'General Linear': 0}
+fast0507.mps True 0.001109000000042215 large
+fastxgemm-n2r6s0t2.mps True 9.000000000014552e-05 large
+fastxgemm-n2r7s4t1.mps True 0.0008179999999811116 large
+fastxgemm-n3r21s3t6.mps True 0.0007880000000568543 large
+fastxgemm-n3r22s4t6.mps True 0.0007819999998446292 large
+fastxgemm-n3r23s5t6.mps True 0.0007519999999203719 large
+fhnw-binpack4-18.mps True 1.5023309999999128 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 78, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 78, 'Mixed Binary': 0, 'General Linear': 494}
+fhnw-binpack4-48.mps True 101.52465899999993 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 245, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 595, 'Mixed Binary': 0, 'General Linear': 3640}
+fhnw-binpack4-4.mps True 1.5685430000000906 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 48, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 78, 'Mixed Binary': 0, 'General Linear': 494}
+fhnw-binpack4-58.mps True 0.001523000000133834 large
+fhnw-binpack4-77.mps True 116.63389699999993 {'Singleton': 402, 'Aggregation': 0, 'Precedence': 231, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 630, 'Mixed Binary': 0, 'General Linear': 3659}
+fhnw-binschedule0.mps True 0.001694000000043161 large
+fhnw-binschedule1.mps True 0.0004510000001118897 large
+fhnw-binschedule2.mps True 0.0007330000000820291 large
+fhnw-schedule-paira100.mps True 0.0007339999999658176 large
+fhnw-schedule-paira200.mps True 0.0007100000000264117 large
+fhnw-schedule-paira400.mps True 0.0007219999999961146 large
+fhnw-schedule-pairb200.mps True 0.0006989999999404972 large
+fhnw-schedule-pairb400.mps True 0.0007379999999557185 large
+fhnw-sq2.mps True 0.12852199999997538 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 4, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 87}
+fhnw-sq3.mps True 8.282013000000006 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 4, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 163}
+fiball.mps True 0.0008070000001225708 large
+fiber.mps True 4.3774550000000545 {'Singleton': 15, 'Aggregation': 41, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 20, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 287, 'General Linear': 0}
+fillomino7x7-0i.mps True 0.0011490000001685985 large
+fjspeasy01i.mps True 0.0008499999999003194 large
+flugplinf.mps True 0.010876000000052954 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 17}
+flugpl.mps True 0.0041300000000319415 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 16}
+g200x740.mps True 6.981964999999946 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 940, 'General Linear': 0}
+g503inf.mps True 0.006591999999955078 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 24, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 1, 'Knapsack': 2, 'Integer Knapsack': 0, 'Mixed Binary': 14, 'General Linear': 0}
+gasprod1-1.mps True 0.000450999999884516 large
+gasprod1-2.mps True 0.0008090000001175213 large
+gasprod1-3.mps True 0.0009789999999156862 large
+gasprod2-1.mps True 5.000000010113581e-05 large
+gasprod2-2.mps True 0.0008129999998800486 large
+gen-ip002.mps True 0.02659700000003795 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 24}
+gen-ip016.mps True 0.010892000000012558 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 24}
+gen-ip021.mps True 0.014302999999927124 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 28}
+gen-ip036.mps True 0.017359000000169544 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 46}
+gen-ip054.mps True 0.011229000000184897 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 27}
+gen.mps True 3.298473000000058 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 432, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 150, 'General Linear': 174}
+genus-g31-8.mps True 0.0005160000000614673 large
+genus-g61-25.mps True 0.0007869999999456923 large
+genus-sym-g31-8.mps True 0.00033899999993991514 large
+genus-sym-g62-2.mps True 0.0010899999999764987 large
+genus-sym-grafo5708-48.mps True 5.600000008598727e-05 large
+ger50-17-ptp-pop-3t.mps True 29.849199 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 135, 'Mixed Binary': 273, 'General Linear': 137}
+ger50-17-ptp-pop-6t.mps True 30.393580999999813 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 135, 'Mixed Binary': 273, 'General Linear': 137}
+ger50-17-trans-dfn-3t.mps True 0.0015419999999721767 large
+ger50_17_trans.mps True 0.0007250000001022272 large
+ger50-17-trans-pop-3t.mps True 0.0007200000000011642 large
+germanrr.mps True 0.0007330000000820291 large
+germany50-UUM.mps True 0.0007129999999051506 large
+gfd-schedulen180f7d50m30k18-16i.mps True 0.0007209999998849526 large
+gfd-schedulen180f7d50m30k18.mps True 0.0007180000000062137 large
+gfd-schedulen25f5d20m10k3i.mps True 0.0006970000001729204 large
+gfd-schedulen55f2d50m30k3i.mps True 0.0007339999999658176 large
+ghoulomb4-9-10i.mps True 0.0007200000000011642 large
+glass4.mps True 0.8999169999999594 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 36, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 360}
+glass-sc.mps True 0.00038900000004105095 large
+gmu-35-40.mps True 4.257609999999886 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 24, 'Set Partitioning': 0, 'Set Packing': 379, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 13, 'General Linear': 8}
+gmu-35-50.mps True 7.90735299999983 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 8, 'Set Partitioning': 0, 'Set Packing': 406, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 13, 'General Linear': 8}
+gmut-75-50.mps True 0.0009660000000621949 large
+gmut-76-40.mps True 0.00045700000009674113 large
+gmut-76-50.mps True 0.0008350000000518776 large
+gr4x6.mps True 0.009849000000031083 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 10, 'General Linear': 24}
+graph20-20-1rand.mps True 0.0003950000000259024 large
+graph20-80-1rand.mps True 5.600000008598727e-05 large
+graph40-20-1rand.mps True 9.699999986878538e-05 large
+graph40-40-1rand.mps True 0.0009889999998904386 large
+graph40-80-1rand.mps True 0.00044499999989966454 large
+graphdraw-domain.mps True 0.8598040000001674 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 45, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 480, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 340}
+graphdraw-gemcutter.mps True 0.3597230000000309 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 28, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 224, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 222}
+graphdraw-grafo2.mps True 0.0011409999999614229 large
+graphdraw-mainerd.mps True 0.0008090000001175213 large
+graphdraw-opmanager.mps True 0.0007829999999557913 large
+gsvm2rl11.mps True 0.0014329999999063148 large
+gsvm2rl12.mps True 0.002856999999949039 large
+gsvm2rl3.mps True 0.30785100000002785 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 60, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 120}
+gsvm2rl5.mps True 1.0866249999999127 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 100, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 200}
+gsvm2rl9.mps True 0.0008869999999205902 large
+gt2.mps True 0.015439000000014858 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 2, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 15, 'Mixed Binary': 0, 'General Linear': 12}
+gus-sch.mps True 0.0008890000001429144 large
+h50x2450.mps True 100.0480869999999 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2549, 'General Linear': 0}
+h80x6320d.mps True 0.0007749999999759893 large
+h80x6320.mps True 57.38309699999991 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 79, 'General Linear': 0}
+hanoi5.mps True 0.000923999999940861 large
+haprp.mps True 9.910963999999922 {'Singleton': 4, 'Aggregation': 288, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 1, 'Mixed Binary': 0, 'General Linear': 755}
+hawaiiv10-130.mps True 0.0009529999999813299 large
+hgms30.mps True 6.000000007588824e-05 large
+hgms62.mps True 0.0007949999999254942 large
+hgms-det.mps True 0.0007600000001275475 large
+highschool1-aigio.mps True 0.000747999999930471 large
+hypothyroid-k1.mps True 0.0007709999999860884 large
+ic97_potential.mps True 3.081873000000087 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 450, 'General Linear': 596}
+ic97_tension.mps True 1.847548000000188 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 315, 'General Linear': 4}
+icir97_potential.mps True 30.723261999999977 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1235, 'General Linear': 2079}
+icir97_tension.mps True 17.97416800000019 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 630, 'General Linear': 573}
+iis-glass-cov.mps True 0.0008699999998498242 large
+iis-hc-cov.mps True 0.0007599999999001739 large
+in.mps True 0.0007259999999860156 large
+irish-electricity.mps True 5.400000009103678e-05 large
+irp.mps True 0.0007520000001477456 large
+istanbul-no-cutoff.mps True 0.000730999999859705 large
+ivu06-big.mps True 6.69999999445281e-05 large
+ivu06.mps True 0.0004119999998692947 large
+ivu52.mps True 0.000739999999950669 large
+ivu59.mps True 0.0007230000001072767 large
+k16x240b.mps True 1.1650600000000395 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 256, 'General Linear': 0}
+k1mushroomi.mps True 0.00018100000011145312 large
+k1mushroom.mps True 0.0009459999998853164 large
+khb05250.mps True 3.644272000000001 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 24, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 77, 'General Linear': 0}
+kosova1.mps True 0.0008370000000468281 large
+kottenpark09.mps True 5.899999996472616e-05 large
+l2p12.mps True 0.000757000000021435 large
+l2p1i.mps True 0.00074399999994057 large
+l2p2i.mps True 0.0007499999999254214 large
+lectsched-1.mps True 0.0007450000000517321 large
+lectsched-2.mps True 0.00041400000009161886 large
+lectsched-3.mps True 0.0007459999999355205 large
+lectsched-4-obj.mps True 5.0999999984924216e-05 large
+lectsched-5-obj.mps True 0.0007259999999860156 large
+leo1.mps True 0.0007470000000466825 large
+leo2.mps True 0.0007410000000618311 large
+liu.mps True 9.683158000000049 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 4, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1118, 'General Linear': 1056}
+loopha13.mps True 0.0010070000000723667 large
+lotsize.mps True 34.93291399999998 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 1195, 'Set Partitioning': 0, 'Set Packing': 120, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 5, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 600, 'General Linear': 0}
+lr1dr02vc05v8a-t360.mps True 0.0009639999998398707 large
+lr1dr04vc05v17a-t360.mps True 0.001492999999982203 large
+lr1dr12vc10v70b-t360.mps True 0.0008300000001781882 large
+lr2-22dr3-333vc4v17a-t60.mps True 0.0007559999999102729 large
+lrn.mps True 0.0007200000000011642 large
+mad.mps False 0.04737999999997555 
+manna81.mps True 121.95917599999984 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 54, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 6426}
+map06.mps True 9.800000020732114e-05 large
+map10.mps True 0.00087100000018836 large
+map14860-20.mps True 0.0011299999998755084 large
+map16715-04.mps True 5.999999984851456e-05 large
+map18.mps True 5.899999996472616e-05 large
+mappingmesh3x3mpeg2i.mps True 0.0009339999999156134 large
+mario-t-hard5i.mps True 0.0010919999999714491 large
+maritime-jg3d9.mps True 0.0015379999999822758 large
+markshare1.mps True 0.016413999999940643 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 6, 'General Linear': 0}
+markshare2.mps True 0.022128000000066095 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 7, 'General Linear': 0}
+markshare_4_0.mps True 0.010349000000132946 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 4, 'General Linear': 0}
+markshare_5_0.mps True 0.007266000000072381 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 5, 'General Linear': 0}
+mas74.mps True 0.02553699999998571 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 12}
+mas76.mps True 0.024882000000161497 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 11}
+maxgasflow.mps True 0.00017400000001543958 large
+mc11.mps True 34.35472499999992 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1920, 'General Linear': 0}
+mc7.mps True 34.33949500000017 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1920, 'General Linear': 0}
+mc8.mps True 34.455961000000116 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1920, 'General Linear': 0}
+mcsched.mps True 19.01695299999983 {'Singleton': 0, 'Aggregation': 170, 'Precedence': 1357, 'Variable Bound': 68, 'Set Partitioning': 27, 'Set Packing': 473, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 3, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 2, 'Mixed Binary': 0, 'General Linear': 7}
+mik-250-20-75-1.mps True 0.4549669999996695 {'Singleton': 120, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 75}
+mik-250-20-75-2.mps True 0.4724999999998545 {'Singleton': 120, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 75}
+mik-250-20-75-3.mps True 0.45563899999979185 {'Singleton': 120, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 75}
+mik-250-20-75-4.mps True 0.4769579999997404 {'Singleton': 120, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 75}
+mik-250-20-75-5.mps True 0.46585800000002564 {'Singleton': 120, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 75}
+milo-v12-6-r1-58-1.mps True 7.199999981821747e-05 large
+milo-v12-6-r1-75-1.mps True 0.0004349999999249121 large
+milo-v12-6-r2-40-1.mps True 71.9292190000001 {'Singleton': 420, 'Aggregation': 216, 'Precedence': 0, 'Variable Bound': 840, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1842, 'General Linear': 2310}
+milo-v13-4-3d-3-0.mps True 1.9258990000002996 {'Singleton': 120, 'Aggregation': 124, 'Precedence': 0, 'Variable Bound': 120, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 392, 'General Linear': 240}
+milo-v13-4-3d-4-0.mps True 3.163858999999775 {'Singleton': 160, 'Aggregation': 164, 'Precedence': 0, 'Variable Bound': 160, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 524, 'General Linear': 320}
+mine-166-5.mps True 0.0008740000002944726 large
+mine-90-10.mps True 0.0007680000003347232 large
+mining.mps True 0.000713000000359898 large
+minutedispatchstrategy.mps True 0.0007850000001781154 large
+misc04inf.mps True 70.28545399999985 {'Singleton': 182, 'Aggregation': 82, 'Precedence': 60, 'Variable Bound': 75, 'Set Partitioning': 0, 'Set Packing': 10, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 504, 'General Linear': 813}
+misc05inf.mps True 0.1579740000001948 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 28, 'Variable Bound': 56, 'Set Partitioning': 7, 'Set Packing': 0, 'Set Covering': 127, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 25, 'General Linear': 57}
+misc07.mps True 0.4977950000002238 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 7, 'Set Packing': 3, 'Set Covering': 127, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 3, 'Integer Knapsack': 0, 'Mixed Binary': 72, 'General Linear': 0}
+mitre.mps True 0.0011359999998603598 large
+mkc1.mps True 158.46594000000005 {'Singleton': 132, 'Aggregation': 0, 'Precedence': 710, 'Variable Bound': 2265, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 24, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 280, 'General Linear': 0}
+mkc.mps True 162.74683200000027 {'Singleton': 132, 'Aggregation': 0, 'Precedence': 2922, 'Variable Bound': 55, 'Set Partitioning': 0, 'Set Packing': 252, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 24, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 26, 'General Linear': 0}
+mod008inf.mps True 0.0320080000001326 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 2}
+mod010.mps True 9.385605000000396 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 144, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 1, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 1, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+mod011.mps True 0.0011660000000119908 large
+moj-mining.mps True 0.0009140000001934823 large
+momentum1.mps True 0.0004880000001321605 large
+momentum2.mps True 0.0004239999998389976 large
+momentum3.mps True 0.00047599999970771023 large
+mrcpspj30-15-5i.mps True 0.0008189999998649 large
+mrcpspj30-17-10i.mps True 0.0007289999998647545 large
+mrcpspj30-53-3i.mps True 0.0007540000001426961 large
+msc98-ip.mps True 5.400000009103678e-05 large
+mspsphard01i.mps True 0.0007140000002436864 large
+mspsphard03i.mps True 0.00040399999988949276 large
+mtest4ma.mps True 12.353027999999995 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1174, 'General Linear': 0}
+mushroom-best.mps True 0.0017269999998461572 large
+mzzv11.mps True 0.0008960000000115542 large
+mzzv42z.mps True 0.0007909999999355932 large
+n13-3.mps True 39.22516900000028 {'Singleton': 0, 'Aggregation': 530, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1069, 'General Linear': 124}
+n2seq36f.mps True 0.0011180000001331791 large
+n2seq36q.mps True 0.0008819999998195271 large
+n3700.mps True 739.4924369999999 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 150, 'General Linear': 5000}
+n3705.mps True 760.7465000000002 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 150, 'General Linear': 5000}
+n3707.mps True 759.6828530000003 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 150, 'General Linear': 5000}
+n3709.mps True 736.0270389999996 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 150, 'General Linear': 5000}
+n370b.mps True 730.9367350000002 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 150, 'General Linear': 5000}
+n3div36.mps True 0.0009959999997590785 large
+n3seq24.mps True 0.0008850000003803871 large
+n5-3.mps True 19.930421000000024 {'Singleton': 0, 'Aggregation': 144, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 818, 'General Linear': 100}
+n6-3.mps True 213.9921170000007 {'Singleton': 0, 'Aggregation': 376, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2236, 'General Linear': 148}
+n7-3.mps True 125.92594000000008 {'Singleton': 0, 'Aggregation': 658, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1562, 'General Linear': 116}
+n9-3.mps True 214.055429 {'Singleton': 0, 'Aggregation': 176, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2020, 'General Linear': 168}
+nag.mps True 86.20600899999954 {'Singleton': 0, 'Aggregation': 1267, 'Precedence': 45, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2, 'General Linear': 4526}
+nb10tb.mps True 0.001984999999876891 large
+neos-1061020.mps True 0.000758000000132597 large
+neos-1067731.mps True 0.000901999999769032 large
+neos-1112782.mps True 73.2708930000008 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 2070, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 45, 'General Linear': 0}
+neos-1112787.mps True 42.173353000000134 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 1640, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 40, 'General Linear': 0}
+neos-1122047.mps True 0.0009920000002239249 large
+neos-1140050.mps True 0.0009259999997084378 large
+neos-1171448.mps True 0.0008129999996526749 large
+neos-1171737.mps True 0.0008229999994000536 large
+neos-1223462.mps True 5.500000042957254e-05 large
+neos-1324574.mps True 261.8021550000003 {'Singleton': 0, 'Aggregation': 72, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 648, 'General Linear': 5184}
+neos-1330346.mps True 64.01423799999975 {'Singleton': 0, 'Aggregation': 36, 'Precedence': 0, 'Variable Bound': 1296, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 324, 'General Linear': 2592}
+neos-1337307.mps True 0.0007279999999809661 large
+neos-1354092.mps True 0.000849000000016531 large
+neos-1367061.mps True 0.0008870000001479639 large
+neos-1396125.mps True 8.793958999999631 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 774, 'Set Partitioning': 3, 'Set Packing': 6, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 3, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 3, 'Integer Knapsack': 0, 'Mixed Binary': 612, 'General Linear': 93}
+neos-1420546.mps True 0.0010010000005422626 large
+neos-1420790.mps True 99.26077900000018 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 90, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2190, 'General Linear': 30}
+neos-1423785.mps True 0.0010520000005271868 large
+neos-1425699.mps True 0.020082000000002154 {'Singleton': 0, 'Aggregation': 20, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 1, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 2, 'Mixed Binary': 0, 'General Linear': 66}
+neos-1430701.mps True 1.5221519999995508 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 318, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 350, 'General Linear': 0}
+neos-1442119.mps True 5.654787999999826 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 742, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 782, 'General Linear': 0}
+neos-1445532.mps True 0.0013600000002043089 large
+neos-1445738.mps True 0.0009149999996225233 large
+neos-1445743.mps True 0.0008120000002236338 large
+neos-1445765.mps True 0.0008559999996577972 large
+neos-1456979.mps True 0.0008290000005217735 large
+neos-1516309.mps True 0.0008229999994000536 large
+neos-1582420.mps True 0.0008050000005823676 large
+neos-1593097.mps True 0.0008210000005419715 large
+neos-1599274.mps True 0.001404999999977008 large
+neos-1601936.mps True 0.00079600000026403 large
+neos-1603965.mps True 0.0007910000003903406 large
+neos-1605061.mps True 0.0008030000008147908 large
+neos16.mps True 2.174235000000408 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 336, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 682}
+neos17.mps True 2.6347859999996217 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 451, 'General Linear': 35}
+neos18.mps True 0.0010179999999309075 large
+neos-2075418-temuka.mps True 0.00099800000043615 large
+neos-2294525-abba.mps True 0.0005080000000816653 large
+neos22.mps True 97.46681799999988 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 1230, 'Variable Bound': 2270, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1708, 'General Linear': 0}
+neos-2328163-agri.mps True 26.76118199999928 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 104, 'Set Packing': 104, 'Set Covering': 52, 'Cardinality': 13, 'Invariant Knapsack': 78, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 1612}
+neos-2624317-amur.mps True 2.1119040000003224 {'Singleton': 0, 'Aggregation': 86, 'Precedence': 0, 'Variable Bound': 28, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 3, 'Mixed Binary': 51, 'General Linear': 174}
+neos-2626858-aoos.mps True 2.093542999999954 {'Singleton': 0, 'Aggregation': 86, 'Precedence': 0, 'Variable Bound': 28, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 3, 'Mixed Binary': 60, 'General Linear': 165}
+neos-2629914-sudost.mps True 0.0014119999996182742 large
+neos-2652786-brda.mps True 2.102327999999943 {'Singleton': 0, 'Aggregation': 86, 'Precedence': 0, 'Variable Bound': 28, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 1, 'Mixed Binary': 72, 'General Linear': 155}
+neos-2656603-coxs.mps True 2.0414609999997992 {'Singleton': 0, 'Aggregation': 86, 'Precedence': 0, 'Variable Bound': 28, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 3, 'Mixed Binary': 54, 'General Linear': 171}
+neos-2657525-crna.mps True 2.0292490000001635 {'Singleton': 0, 'Aggregation': 86, 'Precedence': 0, 'Variable Bound': 28, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 7, 'Mixed Binary': 36, 'General Linear': 185}
+neos-2669500-cust.mps True 0.001277000000300177 large
+neos-2746589-doon.mps True 0.002276000000165368 large
+neos-2974461-ibar.mps True 0.0009430000000065775 large
+neos-2978193-inde.mps True 0.0008109999998850981 large
+neos-2978205-isar.mps True 0.0008520000001226435 large
+neos-2987202-jeir.mps True 0.0005089999995107064 large
+neos-2987310-joes.mps True 0.00044799999977840343 large
+neos-2991472-kalu.mps True 0.0008440000001428416 large
+neos2.mps True 16.91450199999963 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 26, 'Set Partitioning': 13, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1061, 'General Linear': 3}
+neos-3004026-krka.mps True 0.001239999999597785 large
+neos-3009394-lami.mps True 37.496132000000216 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 676, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 1352}
+neos-3024952-loue.mps True 72.04019299999982 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 420, 'Mixed Binary': 0, 'General Linear': 3285}
+neos-3025225-shelon.mps True 0.0008739999993849779 large
+neos-3045796-mogo.mps True 0.0015499999999519787 large
+neos-3046601-motu.mps True 1.3262150000000474 {'Singleton': 0, 'Aggregation': 272, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 290}
+neos-3046615-murg.mps True 1.1142289999997956 {'Singleton': 0, 'Aggregation': 240, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 257}
+neos-3048764-nadi.mps True 705.2982949999996 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 29, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 30, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 30, 'Integer Knapsack': 0, 'Mixed Binary': 187, 'General Linear': 2910}
+neos-3065804-namu.mps True 0.0009689999988040654 large
+neos-3068746-nene.mps True 0.00043000000005122274 large
+neos-3072252-nete.mps True 2.6560520000002725 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 288, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 143, 'General Linear': 0}
+neos-3075395-nile.mps True 0.001217999999425956 large
+neos-3083784-nive.mps True 117.700331 {'Singleton': 0, 'Aggregation': 396, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 10, 'Set Packing': 36, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 414, 'General Linear': 1980}
+neos-3083819-nubu.mps True 515.6419150000002 {'Singleton': 0, 'Aggregation': 4215, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 6, 'Mixed Binary': 0, 'General Linear': 504}
+neos-3116779-oban.mps True 34.68484600000011 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 257, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 70, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 0}
+neos-3118745-obra.mps True 5.029744999999821 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 113, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 30, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 0}
+neos-3135526-osun.mps True 1.7034870000006777 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 20, 'Variable Bound': 135, 'Set Partitioning': 2, 'Set Packing': 10, 'Set Covering': 0, 'Cardinality': 10, 'Invariant Knapsack': 968, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 171, 'General Linear': 230}
+neos-3148108-pahi.mps True 0.0009449999997741543 large
+neos-3208254-reiu.mps True 0.0008410000009462237 large
+neos-3209462-rhin.mps True 0.0008060000000114087 large
+neos-3209519-ruhr.mps True 0.0004059999992023222 large
+neos-3211096-shag.mps True 0.0005309999996825354 large
+neos-3214367-sovi.mps True 0.000495000000228174 large
+neos-3216931-puriri.mps True 0.0014500000015686965 large
+neos-3218348-suir.mps True 0.0005089999995107064 large
+neos-3226448-wkra.mps True 0.00011699999959091656 large
+neos-3229051-yass.mps True 0.0007550000009359792 large
+neos-3230376-yser.mps True 0.0008130000005621696 large
+neos-3230511-yuna.mps True 0.00012900000001536682 large
+neos-3230516-zala.mps True 0.0007789999999658903 large
+neos-3237086-abava.mps True 0.0018450000006851042 large
+neos-3283608-agout.mps True 0.0008240000006480841 large
+neos-3322547-alsek.mps True 0.0008260000013251556 large
+neos-3352863-ancoa.mps True 0.0008209999996324768 large
+neos-3354841-apure.mps True 0.0007989999994606478 large
+neos-3355120-tarago.mps True 0.0008120000002236338 large
+neos-3355323-arnon.mps True 6.800000119255856e-05 large
+neos-3372571-onahau.mps True 0.0008429999998043058 large
+neos-3373491-avoca.mps True 23.634593000000677 {'Singleton': 0, 'Aggregation': 18, 'Precedence': 0, 'Variable Bound': 648, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 903}
+neos-3381206-awhea.mps True 13.52603199999976 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 479}
+neos-3402294-bobin.mps True 0.0009040000004461035 large
+neos-3402454-bohle.mps True 0.0016649999997753184 large
+neos-3421095-cinca.mps True 5.711451999999554 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 576, 'Variable Bound': 0, 'Set Partitioning': 24, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 121, 'General Linear': 497}
+neos-3426085-ticino.mps True 28.904217999999673 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 308}
+neos-3426132-dieze.mps True 146.99561899999935 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 570}
+neos-3437289-erdre.mps True 0.0012069999993400415 large
+neos-3530903-gauja.mps True 11.93858999999975 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 220}
+neos-3530905-gaula.mps True 10.51224700000057 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 200}
+neos-3555904-turama.mps True 0.0007550000009359792 large
+neos-3572885-glina.mps True 0.0008020000004762551 large
+neos-3581454-haast.mps True 0.0007999999997991836 large
+neos-3592146-hawea.mps True 53.39990200000102 {'Singleton': 0, 'Aggregation': 35, 'Precedence': 0, 'Variable Bound': 175, 'Set Partitioning': 0, 'Set Packing': 70, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 220, 'Mixed Binary': 140, 'General Linear': 355}
+neos-3594536-henty.mps True 0.0015509999993810197 large
+neos-3603137-hoteo.mps True 0.0009850000005826587 large
+neos-3610040-iskar.mps True 1.4971630000000005 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 65, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 270, 'General Linear': 0}
+neos-3610051-istra.mps True 3.935580999999729 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 202, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 507, 'General Linear': 0}
+neos-3610173-itata.mps True 4.236568999998781 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 186, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 561, 'General Linear': 0}
+neos-3611447-jijia.mps True 1.9744839999984833 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 69, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 308, 'General Linear': 0}
+neos-3611689-kaihu.mps True 1.4772900000007212 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 41, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 282, 'General Linear': 0}
+neos-3615091-sutlej.mps True 0.0011520000007294584 large
+neos-3627168-kasai.mps True 12.673608000000968 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 462, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 70, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 926, 'General Linear': 197}
+neos-3631363-vilnia.mps True 0.001029999999445863 large
+neos-3634244-kauru.mps True 0.0008670000006532064 large
+neos-3636886-kereu.mps True 0.0008170000000973232 large
+neos-3654993-kolva.mps True 0.0007880000011937227 large
+neos-3656078-kumeu.mps True 0.0007719999994151294 large
+neos-3660371-kurow.mps True 167.579882 {'Singleton': 0, 'Aggregation': 12, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 24, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 6, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1944, 'General Linear': 2772}
+neos-3661949-lesse.mps True 56.52707200000077 {'Singleton': 0, 'Aggregation': 35, 'Precedence': 160, 'Variable Bound': 160, 'Set Partitioning': 0, 'Set Packing': 70, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 60, 'Mixed Binary': 140, 'General Linear': 515}
+neos-3665875-lesum.mps True 58.50957000000017 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 40, 'Cardinality': 0, 'Invariant Knapsack': 8, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 8, 'General Linear': 3128}
+neos-3672928-linge.mps True 0.0009570000001986045 large
+neos-3682128-sandon.mps True 0.00094600000011269 large
+neos-3691541-lonja.mps True 0.0008290000005217735 large
+neos-3695882-vesdre.mps True 0.0004749999989144271 large
+neos-3696678-lyvia.mps True 0.0005320000000210712 large
+neos-3699044-maipo.mps True 0.0008699999998498242 large
+neos-3699377-maori.mps True 0.0008450000004813774 large
+neos-3703351-marne.mps True 0.0005540000001929002 large
+neos-3709489-menik.mps True 0.0001609999999345746 large
+neos-3734794-moppy.mps True 143.04061000000002 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 2112, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 176, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 412, 'General Linear': 1617}
+neos-3740487-motru.mps True 0.0019480000009934884 large
+neos-3754224-navua.mps True 0.001059000000168453 large
+neos-3754480-nidda.mps True 0.9340740000006917 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 100, 'Variable Bound': 100, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 102, 'General Linear': 100}
+neos-3755335-nizao.mps True 0.0009200000004057074 large
+neos-3759587-noosa.mps True 0.0008519999992131488 large
+neos-3761878-oglio.mps True 0.0008230000003095483 large
+neos-3762025-ognon.mps True 104.78191700000025 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 399, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2135, 'General Linear': 250}
+neos-3988577-wolgan.mps True 0.000976999999693362 large
+neos-4165869-wannon.mps True 0.001631999999517575 large
+neos-4230265-orari.mps True 0.0008209999996324768 large
+neos-4232544-orira.mps True 0.0007909999985713512 large
+neos-4260495-otere.mps True 0.0008319999997183913 large
+neos-4264598-oueme.mps True 0.0007789999999658903 large
+neos-4285819-pedja.mps True 0.0008509999988746131 large
+neos-4290317-perth.mps True 5.700000110664405e-05 large
+neos-4292145-piako.mps True 0.0007760000007692724 large
+neos-4295773-pissa.mps True 0.0003369999994902173 large
+neos-4300652-rahue.mps True 0.0006959999991522636 large
+neos-4306827-ravan.mps True 0.0004380000009405194 large
+neos-4321076-ruwer.mps True 0.0004690000005211914 large
+neos-4322846-ryton.mps True 0.0010160000001633307 large
+neos-4332801-seret.mps True 0.0007979999991221121 large
+neos-4332810-sesia.mps True 0.000857999999425374 large
+neos-4333464-siret.mps True 46.41873099999975 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 1360, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 157, 'General Linear': 1363}
+neos-4333596-skien.mps True 5.520305000000008 {'Singleton': 0, 'Aggregation': 40, 'Precedence': 1, 'Variable Bound': 0, 'Set Partitioning': 4, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 538, 'General Linear': 229}
+neos-4335793-snake.mps True 0.0009229999996023253 large
+neos-4338804-snowy.mps True 12.442087999999785 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 420, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 420, 'General Linear': 861}
+neos-4343293-stony.mps True 0.0011589999994612299 large
+neos-4355351-swalm.mps True 0.0008199999992939411 large
+neos-4358725-tagus.mps True 0.0008830000006128103 large
+neos-4359986-taipa.mps True 0.0007889999997132691 large
+neos-4360552-sangro.mps True 9.499999941908754e-05 large
+neos-4382714-ruvuma.mps True 0.0008510000006936025 large
+neos-4387871-tavua.mps True 124.80351800000062 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 2000, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 554, 'General Linear': 2000}
+neos-4391920-timok.mps True 0.0012229999992996454 large
+neos-4393408-tinui.mps True 125.82758599999943 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 2000, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 554, 'General Linear': 2000}
+neos-4408804-prosna.mps True 0.0013280000002851011 large
+neos-4409277-trave.mps True 0.001457000000300468 large
+neos-4413714-turia.mps True 0.0008280000001832377 large
+neos-4477313-unzha.mps True 46.80106999999953 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 126, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2032, 'General Linear': 2016}
+neos-4531126-vouga.mps True 0.0001340000017080456 large
+neos-4532248-waihi.mps True 0.00013000000035390258 large
+neos-4533806-waima.mps True 8.100000013655517e-05 large
+neos-4535459-waipa.mps True 6.799999937356915e-05 large
+neos-4545615-waita.mps True 1.4000001101521775e-05 large
+neos-4555749-wards.mps True 6.800000119255856e-05 large
+neos-4562542-watut.mps True 4.599999920174014e-05 large
+neos-4647027-thurso.mps True 1.300000076298602e-05 large
+neos-4647030-tutaki.mps True 4.599999920174014e-05 large
+neos-4647032-veleka.mps True 5.400000009103678e-05 large
+neos-4650160-yukon.mps True 13.5263759999998 {'Singleton': 0, 'Aggregation': 160, 'Precedence': 304, 'Variable Bound': 746, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 96, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 39, 'Integer Knapsack': 0, 'Mixed Binary': 312, 'General Linear': 312}
+neos-4703857-ahuroa.mps True 0.001974000000700471 large
+neos-4722843-widden.mps True 0.0009369999988848576 large
+neos-4724674-aorere.mps True 0.000826999999844702 large
+neos-4736745-arroux.mps True 118.97961799999939 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 3, 'Variable Bound': 3, 'Set Partitioning': 8, 'Set Packing': 3, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 952, 'Mixed Binary': 42, 'General Linear': 816}
+neos-4738912-atrato.mps True 125.66619699999865 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 3, 'Variable Bound': 3, 'Set Partitioning': 8, 'Set Packing': 3, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 952, 'Mixed Binary': 42, 'General Linear': 936}
+neos-4754521-awarau.mps True 0.0008959999995568069 large
+neos-4760493-puerua.mps True 0.000201000000743079 large
+neos-4763324-toguru.mps True 0.0008369999995920807 large
+neos-4797081-pakoka.mps True 0.00012600000081874896 large
+neos-4805882-barwon.mps True 0.000806999998530955 large
+neos-480878.mps True 0.0008330000000569271 large
+neos-4954274-beardy.mps True 0.0007869999990361976 large
+neos-4954340-beaury.mps True 0.0008109999998850981 large
+neos-4954357-bednja.mps True 0.000753999998778454 large
+neos-4954672-berkel.mps True 14.574726000000737 {'Singleton': 0, 'Aggregation': 18, 'Precedence': 0, 'Variable Bound': 798, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1032, 'General Linear': 0}
+neos-4960896-besbre.mps True 0.0010249999995721737 large
+neos-4966126-blavet.mps True 0.0008510000006936025 large
+neos-4966258-blicks.mps True 0.0002930000009655487 large
+neos-4971100-bodrog.mps True 0.0006549999998242129 large
+neos-4972437-bojana.mps True 0.0007850000001781154 large
+neos-4972461-bolong.mps True 0.0008820000002742745 large
+neos-4976951-bunnoo.mps True 0.0007480000003852183 large
+neos-4984115-canche.mps True 0.0004309999985707691 large
+neos-498623.mps True 0.00040999999873747583 large
+neos4.mps True 0.0007799999984854367 large
+neos-5013590-toitoi.mps True 0.0008040000011533266 large
+neos-5018451-chiese.mps True 0.00011300000005576294 large
+neos-503737.mps True 18.110051999999996 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 150, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 250, 'General Linear': 100}
+neos-5041756-cobark.mps True 0.0016560000003664754 large
+neos-5041822-cockle.mps True 0.0008429999998043058 large
+neos-5044663-wairoa.mps True 0.0007830000013200333 large
+neos-5045105-creuse.mps True 22.496814000000086 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 124, 'Mixed Binary': 0, 'General Linear': 128}
+neos-5049753-cuanza.mps True 0.000959000000875676 large
+neos-5051588-culgoa.mps True 109.46017800000118 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 124, 'Mixed Binary': 0, 'General Linear': 4020}
+neos-5052403-cygnet.mps True 0.0007200000000011642 large
+neos-5075914-elvire.mps True 153.4248690000004 {'Singleton': 0, 'Aggregation': 37, 'Precedence': 8, 'Variable Bound': 1478, 'Set Partitioning': 0, 'Set Packing': 118, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1219, 'General Linear': 860}
+neos-5076235-embley.mps True 0.0016359999990527285 large
+neos-5078479-escaut.mps True 75.89219899999989 {'Singleton': 0, 'Aggregation': 37, 'Precedence': 0, 'Variable Bound': 1370, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1043, 'General Linear': 992}
+neos-5079731-flyers.mps True 0.001029999999445863 large
+neos-5081619-ganges.mps True 0.0008920000000216532 large
+neos-5083528-gimone.mps True 0.0015210000001388835 large
+neos-5093327-huahum.mps True 0.00148799999988114 large
+neos-5100895-inster.mps True 0.0011400000003050081 large
+neos-5102383-irwell.mps True 0.0008429999998043058 large
+neos-5104907-jarama.mps True 0.002099000001180684 large
+neos-5106984-jizera.mps True 0.0007699999987380579 large
+neos-5107597-kakapo.mps True 114.85247999999956 {'Singleton': 0, 'Aggregation': 57, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 12, 'General Linear': 6429}
+neos-5108386-kalang.mps True 0.0005380000002332963 large
+neos-5114902-kasavu.mps True 0.0009350000000267755 large
+neos-5115478-kaveri.mps True 114.3751859999993 {'Singleton': 0, 'Aggregation': 57, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 12, 'General Linear': 6429}
+neos-5116085-kenana.mps True 0.0009320000008301577 large
+neos-5118834-korana.mps True 0.0008969999998953426 large
+neos-5118851-kowhai.mps True 0.0008189999989554053 large
+neos-5123665-limmat.mps True 0.0007820000009814976 large
+neos-5125849-lopori.mps True 72.15762899999936 {'Singleton': 0, 'Aggregation': 32, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 60, 'Set Packing': 182, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 178}
+neos-5129192-manaia.mps True 0.000884000000951346 large
+neos-5138690-middle.mps True 0.000923999999940861 large
+neos-5140963-mincio.mps True 0.16064000000005763 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 28, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 156, 'General Linear': 0}
+neos-5149806-wieprz.mps True 0.00014699999883305281 large
+neos-5151569-mologa.mps True 6.399999983841553e-05 large
+neos-5157194-moruya.mps True 0.0005099999998492422 large
+neos-5178119-nalagi.mps True 0.0008200000011129305 large
+neos-5182409-nasivi.mps True 11.974892999998701 {'Singleton': 0, 'Aggregation': 80, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 20, 'Set Packing': 80, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 240, 'General Linear': 160}
+neos-5188808-nattai.mps True 0.00013000000035390258 large
+neos-5189128-totara.mps True 0.0008410000009462237 large
+neos-5192052-neckar.mps True 0.01812199999949371 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 56, 'General Linear': 0}
+neos-5193246-nerang.mps True 0.0010849999998754356 large
+neos-5195221-niemur.mps True 0.0008509999988746131 large
+neos-5196530-nuhaka.mps True 0.0008120000002236338 large
+neos-520729.mps True 5.599999894911889e-05 large
+neos-5221106-oparau.mps True 0.0007999999997991836 large
+neos-5223573-tarwin.mps True 0.0008450000004813774 large
+neos-5251015-ogosta.mps True 0.0008030000008147908 large
+neos-525149.mps True 0.0008550000002287561 large
+neos-5260764-orauea.mps True 0.0008209999996324768 large
+neos-5261882-treska.mps True 52.99828399999933 {'Singleton': 350, 'Aggregation': 0, 'Precedence': 8, 'Variable Bound': 0, 'Set Partitioning': 15, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 5, 'Knapsack': 5, 'Integer Knapsack': 0, 'Mixed Binary': 2580, 'General Linear': 8}
+neos-5266653-tugela.mps True 0.00171299999965413 large
+neos-5273874-yomtsa.mps True 0.0008120000002236338 large
+neos-555001.mps True 95.41357500000049 {'Singleton': 0, 'Aggregation': 1032, 'Precedence': 360, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 315, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1092, 'General Linear': 675}
+neos-555343.mps True 90.59039500000108 {'Singleton': 0, 'Aggregation': 650, 'Precedence': 300, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 55, 'General Linear': 2321}
+neos-555424.mps True 76.67150799999945 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 300, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 55, 'General Linear': 2321}
+neos-555884.mps True 115.34066600000006 {'Singleton': 0, 'Aggregation': 210, 'Precedence': 300, 'Variable Bound': 1650, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1020, 'General Linear': 1151}
+neos-565672.mps True 0.0026099999995494727 large
+neos-574665.mps True 8.367428999999902 {'Singleton': 0, 'Aggregation': 251, 'Precedence': 0, 'Variable Bound': 311, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 396, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 20, 'Mixed Binary': 169, 'General Linear': 2603}
+neos-578379.mps True 0.0012330000008660136 large
+neos-585192.mps True 0.0008730000008654315 large
+neos-585467.mps True 0.0007860000005166512 large
+neos-595904.mps True 87.74175900000046 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 20, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1288, 'General Linear': 1144}
+neos5.mps True 0.027541999999812106 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 63}
+neos-619167.mps True 131.57279999999992 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 800, 'Variable Bound': 400, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 570, 'General Linear': 5030}
+neos-631517.mps True 4.769470999999612 {'Singleton': 0, 'Aggregation': 7, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 160, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 184, 'General Linear': 0}
+neos-631710.mps True 0.0017160000006697373 large
+neos-633273.mps True 0.0008360000010725344 large
+neos-662469.mps True 0.0008289999987027841 large
+neos-686190.mps True 91.04724399999941 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 59, 'Variable Bound': 0, 'Set Partitioning': 2, 'Set Packing': 0, 'Set Covering': 60, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 118, 'General Linear': 3425}
+neos-691058.mps True 49.5228189999998 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 450, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 12, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1233, 'General Linear': 972}
+neos6.mps True 0.0011170000016136328 large
+neos-738098.mps True 0.0008839999991323566 large
+neos-780889.mps True 0.0007729999997536652 large
+neos-787933.mps True 0.0008479999996779952 large
+neos-799711.mps True 0.0008070000003499445 large
+neos-799716.mps True 0.0008709999983693706 large
+neos-807639.mps True 6.924506000001202 {'Singleton': 0, 'Aggregation': 170, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 20, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1061, 'General Linear': 290}
+neos-820879.mps True 0.00087100000018836 large
+neos-824661.mps True 0.0008510000006936025 large
+neos-826224.mps True 0.000862000000779517 large
+neos-826650.mps True 143.39054900000156 {'Singleton': 0, 'Aggregation': 48, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 18, 'Set Packing': 320, 'Set Covering': 0, 'Cardinality': 42, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1986, 'General Linear': 0}
+neos-827015.mps True 0.0009500000014668331 large
+neos-827175.mps True 0.0007860000005166512 large
+neos-829552.mps True 0.0007979999991221121 large
+neos-831188.mps True 87.3552639999998 {'Singleton': 0, 'Aggregation': 20, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 68, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1038, 'General Linear': 1058}
+neos-848198.mps True 164.26534100000026 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 462, 'General Linear': 462}
+neos-848589.mps True 0.0009520000003249152 large
+neos-850681.mps True 0.0009409999984200113 large
+neos859080.mps True 0.06424800000058895 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 120, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 1, 'Mixed Binary': 4, 'General Linear': 39}
+neos-859770.mps True 0.0009339999996882398 large
+neos-860300.mps True 0.0008199999992939411 large
+neos-872648.mps True 0.0011130000002594898 large
+neos-873061.mps True 0.0010809999985212926 large
+neos-876808.mps True 0.0019940000001952285 large
+neos-885086.mps True 0.0005859999982931186 large
+neos-885524.mps True 0.0008649999999761349 large
+neos8.mps True 0.0005969999983790331 large
+neos-911970.mps True 0.3516720000006899 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 35, 'Set Packing': 0, 'Set Covering': 24, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 48, 'General Linear': 0}
+neos-913984.mps True 0.0011240000003454043 large
+neos-914441.mps True 0.004769000001033419 large
+neos-932721.mps True 0.00013299999955052044 large
+neos-933562.mps True 60.53079000000071 {'Singleton': 0, 'Aggregation': 1512, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 720, 'Set Packing': 56, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 336, 'General Linear': 576}
+neos-933638.mps True 0.0012459999998100102 large
+neos-933966.mps True 0.0008790000010776566 large
+neos-935234.mps True 0.0007370000002993038 large
+neos-935769.mps True 0.001930000000356813 large
+neos-941313.mps True 0.00013299999955052044 large
+neos-948346.mps True 0.0005379999984143069 large
+neos-950242.mps True 0.0005069999988336349 large
+neos-952987.mps True 0.00043000000005122274 large
+neos-953928.mps True 0.0010150000016437843 large
+neos-954925.mps True 0.0011800000011135126 large
+neos-956971.mps True 0.0009320000008301577 large
+neos-957143.mps True 0.0002590000003692694 large
+neos-957323.mps True 0.0009160000008705538 large
+neos-960392.mps True 0.0007869999990361976 large
+neos-983171.mps True 0.0008639999996375991 large
+neos9.mps True 0.0008240000006480841 large
+net12.mps True 0.0008109999998850981 large
+netdiversion.mps True 0.0004270000008546049 large
+newdano.mps True 0.4851230000003852 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 392, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 16, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 112, 'General Linear': 56}
+nexp-150-20-1-5.mps True 153.3520950000002 {'Singleton': 2235, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 2235, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 85, 'General Linear': 65}
+nexp-150-20-8-5.mps True 0.0013429999999061693 large
+nexp-50-20-1-1.mps True 0.43321800000012445 {'Singleton': 245, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 245, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 22, 'General Linear': 28}
+nexp-50-20-4-2.mps True 1.7218970000012632 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 245, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 272, 'General Linear': 23}
+nh97_potential.mps True 5.786943000000974 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 630, 'General Linear': 1286}
+nh97_tension.mps True 3.285571999998865 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 376, 'General Linear': 361}
+nj1.mps True 0.0015899999998509884 large
+nj2.mps True 0.000831000001198845 large
+nj3.mps True 0.0007839999998395797 large
+no-ip-64999.mps True 0.0007279999990714714 large
+no-ip-65059.mps True 0.0007390000009763753 large
+noswot.mps True 0.046794000001682434 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 20, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 6, 'Mixed Binary': 0, 'General Linear': 156}
+npmv07.mps True 0.0010170000005018665 large
+ns1111636.mps True 0.0008170000000973232 large
+ns1116954.mps True 0.0008349999989150092 large
+ns1208400.mps True 0.0004530000005615875 large
+ns1430538.mps True 0.00047000000085972715 large
+ns1456591.mps True 0.0007470000000466825 large
+ns1631475.mps True 5.500000042957254e-05 large
+ns1644855.mps True 0.0007500000010622898 large
+ns1679495.mps True 8.800000068731606e-05 large
+ns1690781.mps True 0.00079600000026403 large
+ns1760995.mps True 0.0007339999992836965 large
+ns1828997.mps True 5.6000000768108293e-05 large
+ns1830653.mps True 0.0010760000004665926 large
+ns1849932.mps True 0.001065000000380678 large
+ns1856153.mps True 0.0007389999991573859 large
+ns1904248.mps True 0.0008770000004005851 large
+ns1905797.mps True 7.100000038917642e-05 large
+ns1952667.mps True 0.0011109999995824182 large
+ns2034125.mps True 0.0008560000005672919 large
+ns2071214.mps True 89.55901099999937 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 1470, 'Set Partitioning': 1, 'Set Packing': 50, 'Set Covering': 15, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 500, 'General Linear': 4214}
+ns2122698.mps True 0.0010600000005069887 large
+ns2124243.mps True 0.0015060000005178154 large
+ns4-pr6.mps True 190.8635540000014 {'Singleton': 8, 'Aggregation': 372, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 2139, 'General Linear': 120}
+ns930473.mps True 0.0009640000007493654 large
+nsa.mps True 0.6553850000000239 {'Singleton': 0, 'Aggregation': 36, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 631, 'General Linear': 630}
+nsr8k.mps True 0.0015349999994214159 large
+nsrand-ipx.mps True 0.0008749999997235136 large
+nu120-pr12.mps True 132.25417000000016 {'Singleton': 10, 'Aggregation': 405, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1782, 'General Linear': 116}
+nu120-pr9.mps True 186.7186499999989 {'Singleton': 4, 'Aggregation': 174, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1914, 'General Linear': 128}
+nu25-pr12.mps True 128.3779510000004 {'Singleton': 10, 'Aggregation': 405, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1782, 'General Linear': 116}
+nu4-pr9.mps True 181.7947519999998 {'Singleton': 4, 'Aggregation': 174, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1914, 'General Linear': 128}
+nucorsav.mps True 0.0012870000009570504 large
+nursesched-medium04.mps True 0.0008909999996831175 large
+nursesched-medium-hint03.mps True 0.0008529999995516846 large
+nursesched-sprint02.mps True 0.0007850000001781154 large
+nursesched-sprint-hidden09.mps True 5.199999941396527e-05 large
+nursesched-sprint-late03.mps True 0.0007330000007641502 large
+nw04.mps True 8.100000013655517e-05 large
+ofi2.mps True 0.0008040000011533266 large
+ofi.mps True 0.0007860000005166512 large
+oocsp-racks030e6cci.mps True 0.0009059999993041856 large
+oocsp-racks030f7cci.mps True 0.0007659999992029043 large
+opm2-z10-s4.mps True 0.0007089999999152496 large
+opm2-z12-s8.mps True 0.0007769999992888188 large
+opm2-z6-s1.mps True 0.0008240000006480841 large
+opm2-z7-s8.mps True 0.0008250000009866199 large
+opm2-z8-s0.mps True 0.0007630000000062864 large
+opt1217.mps True 0.18781699999999546 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 48, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 16}
+osorio-cta.mps True 0.001244000000951928 large
+p0201.mps True 0.06810899999982212 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 26, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 3, 'Integer Knapsack': 0, 'Mixed Binary': 104, 'General Linear': 0}
+p200x1188c.mps True 14.295756999999867 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1388, 'General Linear': 0}
+p2m2p1m1p0n100.mps True 0.00790200000119512 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+p500x2988c.mps True 179.59349900000052 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3488, 'General Linear': 0}
+p500x2988d.mps True 181.84454899999946 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3488, 'General Linear': 0}
+p500x2988.mps True 183.30296699999963 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3488, 'General Linear': 0}
+pb-fit2d.mps True 0.0008749999997235136 large
+pb-gfrd-pnc.mps True 0.000835999999253545 large
+pb-grow22.mps True 0.0007699999987380579 large
+pb-market-split8-70-4.mps True 0.02288099999896076 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 16}
+peg-solitaire-a3.mps True 0.0006899999989400385 large
+pg5_34.mps True 2.3790120000012394 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 125, 'General Linear': 100}
+pg.mps True 1.6054519999997865 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 125, 'General Linear': 0}
+physiciansched3-3.mps True 0.0008550000002287561 large
+physiciansched3-4.mps True 0.0014640000008512288 large
+physiciansched5-3.mps True 5.500000042957254e-05 large
+physiciansched6-1.mps True 0.0008429999998043058 large
+physiciansched6-2.mps True 5.6000000768108293e-05 large
+pigeon-08.mps True 0.40170299999954295 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 600, 'General Linear': 0}
+pigeon-10.mps True 0.9043170000004466 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 930, 'General Linear': 0}
+pigeon-13.mps True 2.769238000000769 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 1560, 'General Linear': 0}
+pigeon-16.mps True 7.044300999999905 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 1, 'Integer Knapsack': 0, 'Mixed Binary': 2352, 'General Linear': 0}
+pigeon-20.mps True 0.0010339999989810167 large
+piperout-03.mps True 0.0008619999989605276 large
+piperout-08.mps True 0.0007710000008955831 large
+piperout-27.mps True 0.0007710000008955831 large
+piperout-d20.mps True 0.0007249999998748535 large
+piperout-d27.mps True 0.0007989999994606478 large
+pizza27i.mps True 0.000735999999960768 large
+pizza78i.mps True 0.0007280000008904608 large
+pk1.mps True 0.03363999999965017 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 15, 'General Linear': 30}
+polygonpack3-15.mps True 0.001028000000587781 large
+polygonpack4-10.mps True 0.0007519999999203719 large
+polygonpack4-15.mps True 0.0001339999998890562 large
+polygonpack4-7.mps True 0.0010270000002492452 large
+polygonpack5-15.mps True 0.0003209999995306134 large
+ponderthis0517-inf.mps True 0.28180499999871245 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 26, 'Set Packing': 52, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 0}
+probportfolio.mps True 0.2761269999991782 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 300}
+prod1.mps True 0.14819200000056298 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 100, 'Set Partitioning': 7, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 101, 'General Linear': 0}
+prod2.mps True 0.23524900000120397 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 100, 'Set Partitioning': 10, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 101, 'General Linear': 0}
+proteindesign121hz512p19.mps True 0.0011699999995471444 large
+proteindesign121hz512p9.mps True 0.00010199999996984843 large
+proteindesign121pgb11p9.mps True 4.599999920174014e-05 large
+proteindesign122trx11p8.mps True 0.000875000001542503 large
+pw-myciel4.mps True 0.0008370000014110701 large
+pythago7824.mps True 0.0007349999996222323 large
+pythago7825.mps True 0.0007559999994555255 large
+qap10.mps True 52.85924700000032 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 1820}
+qiu.mps True 1.928265000000465 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 528, 'Variable Bound': 528, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 136, 'General Linear': 0}
+qnet1.mps True 1.8618310000001657 {'Singleton': 0, 'Aggregation': 87, 'Precedence': 32, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 337, 'General Linear': 47}
+qnet1_o.mps True 1.6876009999996313 {'Singleton': 0, 'Aggregation': 87, 'Precedence': 32, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 337, 'General Linear': 0}
+queens-30.mps True 0.00010999999904015567 large
+r4l4-02-tree-bounds-50.mps True 0.0006979999998293351 large
+r50x360.mps True 0.5203540000002249 {'Singleton': 0, 'Aggregation': 1, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 409, 'General Linear': 0}
+radiationm18-12-05.mps True 0.000661000000036438 large
+radiationm40-10-02.mps True 0.00040499999886378646 large
+rail01.mps True 0.000932999999349704 large
+rail02.mps True 0.0007459999997081468 large
+rail03.mps True 0.0008020000004762551 large
+rail507.mps True 0.0007900000000518048 large
+railway_8_1_0.mps True 16.69972299999972 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 2526}
+ramos3.mps True 0.0008719999987079063 large
+ran12x21.mps True 0.24385499999880267 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 33, 'General Linear': 252}
+ran13x13.mps True 0.10833099999945262 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 26, 'General Linear': 169}
+ran14x18-disj-8.mps True 0.5095970000002126 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 49, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 32, 'General Linear': 361}
+rd-rplusc-21.mps True 0.0008230000003095483 large
+reblock115.mps True 0.0009059999993041856 large
+reblock166.mps True 0.0007949999999254942 large
+reblock354.mps True 0.0008010000001377193 large
+reblock420.mps True 0.0008089999992080266 large
+rentacar.mps True 0.0007550000009359792 large
+rfds-4-days.mps True 0.0007439999990310753 large
+rlp1.mps True 0.05435899999974936 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 55, 'General Linear': 13}
+rmatr100-p10.mps True 0.000753999998778454 large
+rmatr100-p5.mps True 0.0018289999989065109 large
+rmatr200-p10.mps True 6.0999998822808266e-05 large
+rmatr200-p20.mps True 0.0007810000006429618 large
+rmatr200-p5.mps True 0.0004129999997530831 large
+rmine11.mps True 0.001029999999445863 large
+rmine13.mps True 0.0007660000010218937 large
+rmine15.mps True 0.0007660000010218937 large
+rmine21.mps True 0.0008309999993798556 large
+rmine25.mps True 0.002951000000393833 large
+rocI-3-11.mps True 0.0007679999998799758 large
+rocI-4-11.mps True 0.0004989999997633277 large
+rocII-10-11.mps True 0.0005289999990054639 large
+rocII-5-11.mps True 0.0010419999998703133 large
+rocII-8-11.mps True 6.899999971210491e-05 large
+rococoB10-011000.mps True 59.60497199999918 {'Singleton': 811, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 90, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 360, 'General Linear': 406}
+rococoC10-001000.mps True 23.425253999999768 {'Singleton': 552, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 66, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 264, 'General Linear': 411}
+rococoC11-010100.mps True 0.0016269999996438855 large
+rococoC11-011100.mps True 0.0007809999988239724 large
+rococoC12-010001.mps True 0.0007609999993292149 large
+roi2alpha3n4.mps True 0.0008290000005217735 large
+roi5alpha10n8.mps True 0.0007709999990765937 large
+roll3000.mps True 7.175264000001334 {'Singleton': 587, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 46, 'Set Partitioning': 0, 'Set Packing': 32, 'Set Covering': 119, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 238, 'Mixed Binary': 81, 'General Linear': 1192}
+rout.mps True 0.347196000000622 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 230, 'Set Partitioning': 0, 'Set Packing': 14, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 47}
+rpp22falsei.mps True 0.0009030000001075678 large
+rvb-sub.mps True 0.0008539999998902204 large
+rwth-timetable.mps True 0.0017779999998310814 large
+s100.mps True 0.0009399999999004649 large
+s1234.mps True 5.79999996261904e-05 large
+s250r10.mps True 0.0011109999995824182 large
+s55.mps True 0.0005089999995107064 large
+s82.mps True 0.0007850000001781154 large
+satellites2-25.mps True 8.200000047509093e-05 large
+satellites2-40.mps True 0.000490999998874031 large
+satellites2-60-fs.mps True 0.000928000001295004 large
+satellites3-25.mps True 2.700000004551839e-05 large
+satellites4-25.mps True 0.0010050000000774162 large
+savsched1.mps True 0.0001900000006571645 large
+scpj4scip.mps True 0.0015449999991687946 large
+scpk4.mps True 0.00017600000137463212 large
+scpl4.mps True 0.0007930000010674121 large
+scpm1.mps True 0.0008149999994202517 large
+scpn2.mps True 0.0008099999995465623 large
+sct1.mps True 0.0008130000005621696 large
+sct2.mps True 5.899999996472616e-05 large
+sct31.mps True 0.0008649999999761349 large
+sct32.mps True 0.0008580000012443634 large
+sct5.mps True 0.0007969999987835763 large
+seqsolve1.mps True 0.0007480000003852183 large
+seqsolve2short4288.mps True 0.0007699999987380579 large
+seqsolve3short4288excess384.mps True 0.0007220000006782357 large
+set3-09.mps True 93.51336000000083 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 576, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3171, 'General Linear': 0}
+set3-10.mps True 92.8619749999998 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 576, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3171, 'General Linear': 0}
+set3-15.mps True 93.73124899999857 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 576, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3171, 'General Linear': 0}
+set3-16.mps True 93.19713299999967 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 576, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3171, 'General Linear': 0}
+set3-20.mps True 93.12423599999966 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 576, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 3171, 'General Linear': 0}
+seymour1.mps True 0.001051999999617692 large
+seymour.mps True 0.0015700000003562309 large
+shiftreg1-4.mps True 0.0008170000000973232 large
+shiftreg2-7.mps True 0.0007640000003448222 large
+shiftreg5-1.mps True 0.0007590000004711328 large
+shipsched.mps True 0.000758000000132597 large
+shipschedule3shipsi.mps True 0.0007989999994606478 large
+shipschedule6shipsmixi.mps True 0.0007729999997536652 large
+shipschedule8shipsmixuci.mps True 0.000420000000303844 large
+shs1014.mps True 0.00042800000119314063 large
+shs1023.mps True 0.0007700000005570473 large
+shs1042.mps True 0.0009559999998600688 large
+siena1.mps True 0.0008319999997183913 large
+sing11.mps True 0.002257999998619198 large
+sing17.mps True 6.199999916134402e-05 large
+sing326.mps True 0.0008600000001024455 large
+sing44.mps True 0.0007540000005974434 large
+sing5.mps True 0.0008539999998902204 large
+snip10x10-35r1budget17.mps True 0.0008280000001832377 large
+snp-02-004-104.mps True 8.499999967170879e-05 large
+snp-04-052-052.mps True 0.0008140000009007053 large
+snp-06-004-052.mps True 0.0008630000011180528 large
+snp-10-004-052.mps True 0.0009149999987130286 large
+snp-10-052-052.mps True 0.000849000000016531 large
+sorrell3.mps True 0.0009000000009109499 large
+sorrell4.mps True 0.0008699999998498242 large
+sorrell7.mps True 0.0009730000001582084 large
+sorrell8.mps True 0.00017799999841372482 large
+sp150x300d.mps True 0.48449599999912607 {'Singleton': 0, 'Aggregation': 84, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 366, 'General Linear': 0}
+sp97ar.mps True 0.0010889999994105892 large
+sp97ic.mps True 0.0005650000002788147 large
+sp98ar.mps True 0.000775999998950283 large
+sp98ic.mps True 0.0007430000005115289 large
+sp98ir.mps True 0.0007810000006429618 large
+splan1.mps True 0.0008340000003954628 large
+splice1k1i.mps True 0.0007639999985258328 large
+splice1k1.mps True 0.0008610000004409812 large
+square23.mps True 0.0008149999994202517 large
+square31.mps True 0.0008529999995516846 large
+square37.mps True 0.0008019999986572657 large
+square41.mps True 0.0007700000005570473 large
+square47.mps True 0.0007810000006429618 large
+stein15inf.mps True 0.009468000000197208 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 35, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 1}
+stein45inf.mps True 0.06350299999940034 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 329, 'Cardinality': 0, 'Invariant Knapsack': 1, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 2}
+stein9inf.mps True 0.004015000000435975 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 12, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1, 'General Linear': 1}
+stoch-vrpvrp-s5v2c8vrp-v2c8i.mps True 0.00094600000011269 large
+stockholm.mps True 5.400000009103678e-05 large
+stp3d.mps True 0.0004800000006071059 large
+supportcase10.mps True 0.00047399999857589137 large
+supportcase11.mps True 0.0007650000006833579 large
+supportcase12.mps True 0.0007889999997132691 large
+supportcase14.mps True 0.11837999999988824 {'Singleton': 97, 'Aggregation': 16, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 11, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 19, 'Mixed Binary': 0, 'General Linear': 91}
+supportcase16.mps True 0.06984399999964808 {'Singleton': 6, 'Aggregation': 16, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 17, 'Mixed Binary': 0, 'General Linear': 91}
+supportcase17.mps True 8.449201000001267 {'Singleton': 0, 'Aggregation': 602, 'Precedence': 367, 'Variable Bound': 360, 'Set Partitioning': 4, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 230, 'General Linear': 545}
+supportcase18.mps True 0.0008159999997587875 large
+supportcase19.mps True 0.0008589999997639097 large
+supportcase1.mps True 0.0007650000006833579 large
+supportcase20.mps True 0.0006839999987278134 large
+supportcase21i.mps True 0.0007420000001729932 large
+supportcase22.mps True 0.0007800000003044261 large
+supportcase23.mps True 0.0007509999995818362 large
+supportcase25.mps True 0.0007900000000518048 large
+supportcase26.mps True 0.48598800000036135 {'Singleton': 40, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 830}
+supportcase27i.mps False 24.542161999999735 
+supportcase28i.mps True 0.0010730000012699747 large
+supportcase29.mps True 0.0001629999987926567 large
+supportcase2.mps True 0.0007059999988996424 large
+supportcase30.mps True 3.1518919999998616 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 4, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 1024, 'General Linear': 0}
+supportcase31.mps True 0.00045200000022305176 large
+supportcase33.mps True 0.0015019999991636723 large
+supportcase34.mps True 0.0008629999992990633 large
+supportcase35.mps True 6.800000119255856e-05 large
+supportcase37.mps True 0.0007930000010674121 large
+supportcase38.mps True 0.0007829999995010439 large
+supportcase39.mps True 0.0007260000002133893 large
+supportcase3.mps True 0.0007929999992484227 large
+supportcase40.mps True 5.0999999075429514e-05 large
+supportcase41.mps True 0.0008569999990868382 large
+supportcase42.mps True 0.0008410000009462237 large
+supportcase43.mps True 0.0007499999992433004 large
+supportcase4.mps True 0.0005000000001018634 large
+supportcase6.mps True 0.00046499999916704837 large
+supportcase7.mps True 0.0007980000009411015 large
+swath1.mps True 0.0012260000003152527 large
+swath2.mps True 0.000910999999177875 large
+swath3.mps True 5.700000110664405e-05 large
+swath.mps True 0.0008850000012898818 large
+t11nonreg.mps True 0.0008109999998850981 large
+t1717.mps True 0.0008219999999710126 large
+t1722.mps True 0.0007999999997991836 large
+ta1-UUM.mps True 3.811438000000635 {'Singleton': 0, 'Aggregation': 2, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 382, 'General Linear': 55}
+ta2-UUE.mps True 0.0016649999997753184 large
+tanglegram4.mps True 0.0009760000011738157 large
+tanglegram6.mps True 0.0004890000000159489 large
+tbfp-bigm.mps True 0.000826999999844702 large
+tbfp-network.mps True 5.6999999287654646e-05 large
+Test3.mps True 3.199999991920777e-05 large
+thor50dday.mps True 0.0008720000005268957 large
+timtab1CUTS.mps True 0.24841799999921932 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 6, 'Variable Bound': 1, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 7, 'Mixed Binary': 239, 'General Linear': 118}
+timtab1.mps True 0.11235400000077789 {'Singleton': 0, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 64, 'General Linear': 107}
+tokyometro.mps True 0.0009819999995670514 large
+toll-like.mps True 0.0008769999985815957 large
+tpl-tub-ss16.mps True 0.0008309999993798556 large
+tpl-tub-ws1617.mps True 0.0007959999984450405 large
+tr12-30.mps True 1.9965319999992062 {'Singleton': 0, 'Aggregation': 12, 'Precedence': 0, 'Variable Bound': 360, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 378, 'General Linear': 0}
+traininstance2.mps True 0.0008460000008199131 large
+traininstance6.mps True 0.0010620000011840602 large
+transportmoment.mps True 0.0009939999999915017 large
+trento1.mps True 0.0010130000009667128 large
+triptim1.mps True 0.0009079999999812571 large
+triptim2.mps True 0.0007779999996273546 large
+triptim4.mps True 0.0014470000005530892 large
+triptim7.mps True 0.0008219999999710126 large
+triptim8.mps True 5.400000009103678e-05 large
+tw-myciel4.mps True 0.0007249999998748535 large
+uc720-7-4-4-8.mps True 5.4999998610583134e-05 large
+uccase10.mps True 5.000000055588316e-05 large
+uccase12.mps True 0.0007129999994504033 large
+uccase7.mps True 0.0007709999990765937 large
+uccase8.mps True 0.0007330000007641502 large
+uccase9.mps True 0.0008330000000569271 large
+uct-subprob.mps True 0.0007949999999254942 large
+umts.mps True 0.0007209999985207105 large
+unitcal_7.mps True 0.0007869999990361976 large
+usAbbrv-8-25_70.mps True 35.374283000001014 {'Singleton': 1, 'Aggregation': 0, 'Precedence': 0, 'Variable Bound': 0, 'Set Partitioning': 0, 'Set Packing': 0, 'Set Covering': 0, 'Cardinality': 0, 'Invariant Knapsack': 0, 'Equation Knapsack': 0, 'Binpacking': 0, 'Knapsack': 0, 'Integer Knapsack': 0, 'Mixed Binary': 0, 'General Linear': 3290}
+usafa.mps True 0.0009010000012494856 large
+v150d30-2hopcds.mps True 0.0008099999995465623 large
+van.mps True 0.0011300000005576294 large
+var-smallemery-m6j6.mps True 0.0010129999991477234 large
+vpphard2.mps True 0.0008039999993343372 large
+vpphard.mps True 0.000758000000132597 large
+wachplan.mps True 0.0008070000003499445 large
+wnq-n100-mw99-14.mps True 0.0007299999997485429 large
+woodlands09.mps True 0.0004969999990862561 large
+xmas10-2.mps True 0.00043700000060198363 large
+xmas10.mps True 0.0016350000005331822 large
+z26.mps True 0.0010230000007140916 large
+zeil.mps True 0.0008780000007391209 large
